@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-FangchenChen/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a02-FangchenChen#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a02-FangchenChen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
+  }
 }
